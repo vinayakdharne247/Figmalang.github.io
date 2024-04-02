@@ -1,0 +1,51 @@
+.fltr{
+    filter: brightness(40%);
+}
+
+ul li a {
+    color: #fff !important;
+}
+
+.item-icon .play-btn {
+    text-align: center;
+    display: inline-block;
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+    background-color: #2091f9;
+
+}
+.ms-9rm{
+    margin-left: 9rem !important;
+}
+
+.padbtn{
+    padding: 11px 40px!important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+padding-right: 3rem!important;
+}
+
+@media only screen and (max-width: 600px) {
+.icons{
+    top: 32%!important;
+left: 40%!important;
+}
+
+.d-flex-mob {
+    display: flex !important;
+}
+#vd1{
+    width: 168px !important;
+}
+.img-mob{
+    width: 100% !important;
+}
+.h1mob{
+    font-size: 2rem !important;
+}
+}
+
+
